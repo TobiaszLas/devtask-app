@@ -2,4 +2,4 @@
 kod aplikacji
 
 # Contributing
-asd
+Develop jest bazą dla feature’ów
